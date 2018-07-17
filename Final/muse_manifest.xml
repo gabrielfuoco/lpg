@@ -1,0 +1,270 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lpgmais.com.br" resolutions="1x" timestamp="1530497805077">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-mestre.css" crc="3813402248" ref="index:catálogo-art-tart:galeria-de-fotos:distribuidores:kit-lanche:contato"/>
+    <file name="index.css" crc="466099112" ref="index"/>
+    <file name="cat_logo-art-tart.css" crc="355700937" ref="catálogo-art-tart"/>
+    <file name="galeria-de-fotos.css" crc="4120244478" ref="galeria-de-fotos"/>
+    <file name="distribuidores.css" crc="521532398" ref="distribuidores"/>
+    <file name="kit-lanche.css" crc="366402389" ref="kit-lanche"/>
+    <file name="contato.css" crc="227331038" ref="contato"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche"/>
+    <file name="museutils.js" crc="340535759" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche"/>
+    <file name="whatinput.js" crc="86476730" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche"/>
+    <file name="museconfig.js" crc="310584261" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche"/>
+    <file name="require.js" crc="7928878" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche"/>
+    <file name="webpro.js" crc="4059564322" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u1083.php" crc="82836096" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="menu.png" crc="322292651" seo="true" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche">
+      <caption webpage="index" alt=""/>
+      <caption webpage="catálogo-art-tart" alt=""/>
+      <caption webpage="kit-lanche" alt=""/>
+      <caption webpage="distribuidores" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="logos-lpg.png" crc="528448934" seo="true" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche">
+      <caption webpage="index" alt=""/>
+      <caption webpage="catálogo-art-tart" alt=""/>
+      <caption webpage="kit-lanche" alt=""/>
+      <caption webpage="distribuidores" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="logo fb black-crop-u148.png" crc="4169037893" seo="true" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche">
+      <caption webpage="index" alt=""/>
+      <caption webpage="catálogo-art-tart" alt=""/>
+      <caption webpage="kit-lanche" alt=""/>
+      <caption webpage="distribuidores" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="logo insta black-crop-u168.png" crc="497682645" seo="true" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche">
+      <caption webpage="index" alt=""/>
+      <caption webpage="catálogo-art-tart" alt=""/>
+      <caption webpage="kit-lanche" alt=""/>
+      <caption webpage="distribuidores" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="logo fone black.png" crc="524992010" seo="true" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche">
+      <caption webpage="index" alt=""/>
+      <caption webpage="catálogo-art-tart" alt=""/>
+      <caption webpage="kit-lanche" alt=""/>
+      <caption webpage="distribuidores" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="fique por dentro das novidades.png" crc="3935521184" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u260-4.png" crc="4107057896" ref="index"/>
+    <file name="u264-4.png" crc="3960223477" ref="index"/>
+    <file name="u268-4.png" crc="302010965" ref="index"/>
+    <file name="u271-4.png" crc="520772326" ref="index"/>
+    <file name="u335-5.png" crc="3944134022" ref="index"/>
+    <file name="imagem 01.jpg" crc="3864878485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagem 3.jpg" crc="175230015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagem 02.jpg" crc="4167477800" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-home.jpg" crc="388303027" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u436-4.png" crc="4285757175" ref="index"/>
+    <file name="u439-4.png" crc="4251190082" ref="index"/>
+    <file name="u442-4.png" crc="3948401286" ref="index"/>
+    <file name="logo arttart.png" crc="410321895" seo="true" ref="catálogo-art-tart">
+      <caption webpage="catálogo-art-tart" alt=""/>
+    </file>
+    <file name="pagina catalogo arttart - banner corousel.jpg" crc="530886080" seo="true" ref="catálogo-art-tart">
+      <caption webpage="catálogo-art-tart" alt=""/>
+    </file>
+    <file name="site catalogo.jpg" crc="468189340" seo="true" ref="catálogo-art-tart">
+      <caption webpage="catálogo-art-tart" alt=""/>
+    </file>
+    <file name="banner-mapa-distribuidores.jpg" crc="3962373826" seo="true" ref="distribuidores">
+      <caption webpage="distribuidores" alt=""/>
+    </file>
+    <file name="mapa de parceiros 1 - norte.jpg" crc="278992093" seo="true" ref="distribuidores">
+      <caption webpage="distribuidores" alt=""/>
+    </file>
+    <file name="mapa de parceiros 2 - central.jpg" crc="395246167" seo="true" ref="distribuidores">
+      <caption webpage="distribuidores" alt=""/>
+    </file>
+    <file name="mapa de parceiros 4 - sudeste.jpg" crc="3842807751" seo="true" ref="distribuidores">
+      <caption webpage="distribuidores" alt=""/>
+    </file>
+    <file name="mapa de parceiros 5 - sudeste.png" crc="3972219618" seo="true" ref="distribuidores">
+      <caption webpage="distribuidores" alt=""/>
+    </file>
+    <file name="mapa de parceiros 7 - sul.jpg" crc="3765841389" seo="true" ref="distribuidores">
+      <caption webpage="distribuidores" alt=""/>
+    </file>
+    <file name="mapa de parceiros 8 - sul.jpg" crc="3857196882" seo="true" ref="distribuidores">
+      <caption webpage="distribuidores" alt=""/>
+    </file>
+    <file name="u665-4.png" crc="4024020979" ref="galeria-de-fotos"/>
+    <file name="imagem 1.png" crc="3840746423" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-2.jpg" crc="3902826636" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-3.jpg" crc="4240234287" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-4.jpg" crc="3845544667" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-5.jpg" crc="35951962" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-6.jpg" crc="50784462" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-7.jpg" crc="112075221" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-8.jpg" crc="312856347" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-9.jpg" crc="4025464862" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-10.jpg" crc="3767350" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-11.jpg" crc="3821193971" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-12.jpg" crc="403365081" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-13.jpg" crc="424836187" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-14.jpg" crc="29195878" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-15.jpg" crc="488062219" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-16.jpg" crc="228997561" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-17.jpg" crc="3935036997" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="imagem-18.jpg" crc="12240734" seo="true" ref="galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="u853-6.png" crc="359537002" ref="galeria-de-fotos"/>
+    <file name="banner_kit.jpg" crc="3875103824" seo="true" ref="kit-lanche">
+      <caption webpage="kit-lanche" alt=""/>
+    </file>
+    <file name="kitlanche.png" crc="3826670828" seo="true" ref="kit-lanche">
+      <caption webpage="kit-lanche" alt=""/>
+    </file>
+    <file name="u900-4.png" crc="3999333003" ref="kit-lanche"/>
+    <file name="u903-4.png" crc="3914928694" ref="kit-lanche"/>
+    <file name="u906-13.png" crc="4189411709" ref="kit-lanche"/>
+    <file name="icone reciclavem.png" crc="527068893" seo="true" ref="kit-lanche">
+      <caption webpage="kit-lanche" alt=""/>
+    </file>
+    <file name="u919-4.png" crc="49509945" ref="kit-lanche"/>
+    <file name="pagina contato - bg .jpg" crc="3852447163" seo="true" ref="contato">
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="u922-5.png" crc="4017429447" ref="kit-lanche"/>
+    <file name="sacolaspng.jpg" crc="3824683944" seo="true" ref="kit-lanche">
+      <caption webpage="kit-lanche" alt=""/>
+    </file>
+    <file name="kraftpng.jpg" crc="4234046883" seo="true" ref="kit-lanche">
+      <caption webpage="kit-lanche" alt=""/>
+    </file>
+    <file name="kitsnack (1).png" crc="370625131" seo="true" ref="kit-lanche">
+      <caption webpage="kit-lanche" alt=""/>
+    </file>
+    <file name="u965-4.png" crc="3951379909" ref="kit-lanche"/>
+    <file name="kit snack2png.jpg" crc="186717348" seo="true" ref="kit-lanche">
+      <caption webpage="kit-lanche" alt=""/>
+    </file>
+    <file name="kitbomdia (1).png" crc="352439415" seo="true" ref="kit-lanche">
+      <caption webpage="kit-lanche" alt=""/>
+    </file>
+    <file name="u988-4.png" crc="3795421349" ref="kit-lanche"/>
+    <file name="kit bom diapng.jpg" crc="534201887" seo="true" ref="kit-lanche">
+      <caption webpage="kit-lanche" alt=""/>
+    </file>
+    <file name="u1001-4.png" crc="3983410182" ref="kit-lanche"/>
+    <file name="u1004-19.png" crc="4095646919" ref="kit-lanche"/>
+    <file name="infografico_kit.jpg" crc="401257916" seo="true" ref="kit-lanche">
+      <caption webpage="kit-lanche" alt=""/>
+    </file>
+    <file name="u345-10.png" crc="493747772" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche"/>
+    <file name="u1027-4.png" crc="3806315718" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche"/>
+    <file name="u1148-6.png" crc="472650892" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche"/>
+    <file name="logo fb white.png" crc="86515197" seo="true" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche">
+      <caption webpage="index" alt=""/>
+      <caption webpage="catálogo-art-tart" alt=""/>
+      <caption webpage="kit-lanche" alt=""/>
+      <caption webpage="distribuidores" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="logo insta white.png" crc="390385789" seo="true" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche">
+      <caption webpage="index" alt=""/>
+      <caption webpage="catálogo-art-tart" alt=""/>
+      <caption webpage="kit-lanche" alt=""/>
+      <caption webpage="distribuidores" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="u1181-4.png" crc="3769977031" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche"/>
+    <file name="blank.gif" crc="4208392903" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche"/>
+    <file name="u1099-fss.png" crc="36568436" ref="index:catálogo-art-tart:distribuidores:galeria-de-fotos:contato:kit-lanche"/>
+    <file name="pagina catalogo lateral202x829.jpg" crc="4124494801" seo="true" ref="catálogo-art-tart">
+      <caption webpage="catálogo-art-tart" alt=""/>
+    </file>
+    <file name="pagina catalogo lateral373x1535.jpg" crc="3913772079" seo="true" ref="catálogo-art-tart">
+      <caption webpage="catálogo-art-tart" alt=""/>
+    </file>
+    <file name="mapa de parceiros 3 - sudeste.png" crc="3880064890" seo="true" ref="distribuidores">
+      <caption webpage="distribuidores" alt=""/>
+    </file>
+    <file name="mapa de parceiros 6 - sudeste.png" crc="203447163" seo="true" ref="distribuidores">
+      <caption webpage="distribuidores" alt=""/>
+    </file>
+    <file name="regiao norte white.png" crc="209900943" seo="true" ref="distribuidores">
+      <caption webpage="distribuidores" alt=""/>
+    </file>
+    <file name="regiao central white.png" crc="66995680" seo="true" ref="distribuidores">
+      <caption webpage="distribuidores" alt=""/>
+    </file>
+    <file name="regiao sudeste white.png" crc="3839170010" seo="true" ref="distribuidores">
+      <caption webpage="distribuidores" alt=""/>
+    </file>
+    <file name="regiao sul white.png" crc="464320801" seo="true" ref="distribuidores">
+      <caption webpage="distribuidores" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3871512020" seo="true" mt="1530497735026" redirect="true"/>
+  <file name="catálogo-art-tart.html" crc="146254147" seo="true" mt="1530497735026" redirect="true"/>
+  <file name="distribuidores.html" crc="4125125119" seo="true" mt="1530497735026" redirect="true"/>
+  <file name="galeria-de-fotos.html" crc="221401515" seo="true" mt="1530497735026" redirect="true"/>
+  <file name="contato.html" crc="3801647709" seo="true" mt="1530497735026" redirect="true"/>
+  <file name="kit-lanche.html" crc="4243776595" seo="true" mt="1530497735026" redirect="true"/>
+</manifest>

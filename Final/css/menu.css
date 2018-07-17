@@ -1,0 +1,100 @@
+.header_nav {
+    width: 100%;
+    box-shadow: 0 0 10px 0;
+    position: fixed;
+    background-color: #ffffff;
+    z-index: 999;
+    top: 0;
+}
+
+.header_nav_container {
+    width: 100%;
+    margin: auto;
+    max-width: 992px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_nav_menu {
+    cursor: pointer;
+}
+
+.header_nav_menu img{
+    width: 35px;
+    height: 25px;
+}
+
+.header_nav_logo img{
+    width: 70px;
+}
+
+.header_nav_social img{
+    cursor: pointer;
+    width: 38px;
+    height: 38px;
+}
+
+.menu_items {
+    position: fixed;
+    display: none;
+    top: 0;
+    left: 0;
+    width: 90%;
+    max-width: 300px;
+    height: 100%;
+    z-index: 9999;
+    background-color: rgba(100, 100, 100, 0.5);
+}
+
+.menu_items ul {
+    margin-top: 70px;
+}
+
+.menu_items ul li {
+    padding: 20px 30px;
+}
+
+.menu_items ul li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.menu_item_close {
+    text-align: right;
+    width: auto;
+    right: 0;
+    font-size: 20px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.home_carousel_container {
+    width: 100%;
+}
+
+.owl-nav {
+    position: absolute;
+    width: 100%;
+}
+
+.owl-nav.disabled {
+    display: block !important;
+}
+
+.owl-nav > button > span {
+    background-color: rgba(100, 100, 100, 0.5) !important;
+    padding: 10px !important;
+}
+
+.owl-prev {
+    position: absolute;
+    left: 0;
+    height: 50px;
+}
+
+.owl-next {
+    position: absolute;
+    right: 0;
+    height: 50px;
+}

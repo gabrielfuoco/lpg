@@ -1,0 +1,51 @@
+.version.index{color:#000017;background-color:#E87075;}#page{z-index:1;min-height:581px;background-image:none;border-width:0px;border-color:#000000;background-color:transparent;padding-bottom:20px;width:100%;max-width:960px;margin-left:auto;margin-right:auto;}#ppu138{z-index:0;margin-right:-10000px;margin-top:20px;width:98.03%;}#pu138{z-index:4;width:88.53%;left:0%;margin-left:8.29%;}#u138{z-index:4;position:relative;margin-right:-10000px;margin-top:26px;width:4.81%;}#u131{z-index:2;position:relative;margin-right:-10000px;width:11.89%;left:42.38%;}#u148{z-index:6;position:relative;margin-right:-10000px;margin-top:19px;width:5.65%;left:79.48%;}#u168{z-index:10;position:relative;margin-right:-10000px;margin-top:19px;width:5.77%;left:87.4%;}#u158{z-index:8;position:relative;margin-right:-10000px;margin-top:19px;width:4.93%;left:95.08%;}#u287{z-index:44;background-color:transparent;position:relative;width:97.77%;left:0%;margin-left:2.13%;}#u302-5{z-index:45;min-height:230px;background-color:transparent;font-size:72px;text-align:center;line-height:86px;position:relative;margin-right:-10000px;width:100%;}#pu260-4{z-index:26;width:99.9%;}#u260-4{z-index:26;display:block;vertical-align:top;position:relative;margin-right:-10000px;width:49.79%;left:48.94%;margin-left:2.13%;}#u264-4{z-index:30;display:block;vertical-align:top;position:relative;margin-right:-10000px;margin-top:101px;width:49.79%;left:48.94%;margin-left:2.13%;}#u268-4{z-index:34;display:block;vertical-align:top;position:relative;margin-right:-10000px;margin-top:178px;width:24.9%;left:48.94%;margin-left:2.13%;}#u271-4{z-index:38;display:block;vertical-align:top;position:relative;margin-right:-10000px;margin-top:178px;width:24.9%;left:75.11%;margin-left:2.13%;}#u274{z-index:42;background-color:transparent;position:relative;margin-right:-10000px;width:48.62%;left:1px;margin-left:20px;}#u335-5{z-index:50;display:block;vertical-align:top;position:relative;margin-right:-10000px;margin-top:452px;width:23.62%;left:75.11%;margin-left:2.13%;}#u406{z-index:57;background-color:transparent;position:relative;margin-right:-10000px;margin-top:628px;width:59.79%;left:0%;margin-left:2.13%;}#u426{z-index:59;background-color:transparent;position:relative;margin-right:-10000px;margin-top:627px;width:60%;left:37.88%;margin-left:2.13%;}#u416{z-index:61;background-color:transparent;position:relative;margin-right:-10000px;margin-top:627px;width:60.11%;left:21.39%;margin-left:2.13%;}#pu376{z-index:55;margin-top:-1px;width:96.6%;left:0%;margin-left:2.02%;}#u376{z-index:55;background-color:transparent;position:relative;margin-right:-10000px;width:57.1%;}#pu436-4{z-index:63;width:42.8%;margin:9px -10000px -1px 57.2057205720572%;}#u436-4{z-index:63;display:block;vertical-align:top;position:relative;width:77.64%;margin-left:11.32%;}#u439-4{z-index:67;display:block;vertical-align:top;position:relative;width:77.64%;margin-left:11.32%;}#u442-4{z-index:71;display:block;vertical-align:top;position:relative;width:100%;}.css_verticalspacer .verticalspacer{height:calc(100vh - 2071px);}#u348{z-index:12;position:relative;margin-right:-10000px;width:95.84%;left:2.09%;}#u345-13{z-index:13;margin-bottom:-9px;position:relative;margin-right:-10000px;width:25.22%;left:5.11%;}#muse_css_mq,.html{background-color:#FFFFFF;}body{position:relative;min-width:320px;padding-bottom:11px;}.verticalspacer{min-height:1px;}#u274_img,#u406_img,#u426_img,#u416_img,#u376_img,#u138_img,#u131_img,#u148_img,#u168_img,#u158_img{width:100%;}
+
+.header_nav {
+    width: 100%;
+    box-shadow: 0 0 10px 0;
+    position: fixed;
+    background-color: #ffffff;
+    z-index: 999;
+}
+
+.header_nav_container {
+    width: 100%;
+    margin: auto;
+    max-width: 992px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_nav_menu {
+    cursor: pointer;
+}
+
+.header_nav_social img{
+    cursor: pointer;
+}
+
+.menu_items {
+    position: fixed;
+    display: none;
+    top: 0;
+    left: 0;
+    width: 90%;
+    max-width: 300px;
+    height: 100%;
+    z-index: 9999;
+    background-color: rgba(100, 100, 100, 0.5);
+}
+
+.menu_item_close {
+    text-align: right;
+    width: auto;
+    right: 0;
+    font-size: 20px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.home_carousel_container {
+    width: 100%;
+}
